@@ -10,7 +10,7 @@ using namespace std;
 
 void test()
 {
-	string filename = "E:\\yaoyao\\1.txt";
+	string filename = "E:\\leiyufei\\1.txt";
 	cout << "压缩时间:";
 	MyTimer timer;
 	timer.Start();
@@ -25,7 +25,7 @@ void test()
 
 void untest()
 {
-	string filename = "E:\\yaoyao\\1.huff";
+	string filename = "E:\\leiyudfei\\1.huff";
 	cout << "解压时间:";
 	MyTimer timer;
 	timer.Start();
